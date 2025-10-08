@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://jet-w.github.io/blog-cn/sitemap.xml
+Sitemap: https://jet-w.github.io/blog-tech/sitemap.xml
